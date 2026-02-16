@@ -4,8 +4,8 @@
   "description": "Learning node.js",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node fs(sync)Module.js"
+    "start": "node server.js",
+    "dev": "nodemon asyncFilePath.js"
   },
   "keywords": [
     "node",
@@ -15,6 +15,7 @@
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^5.3.8",
+    "env": "^0.0.2",
     "lodash": "^4.17.23"
   },
   "devDependencies": {
