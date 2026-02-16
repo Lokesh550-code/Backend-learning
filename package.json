@@ -1,0 +1,16 @@
+{
+  "name": "js-backend",
+  "version": "1.0.0",
+  "description": "Learning node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node fs(sync)Module.js"
+  },
+  "keywords": [
+    "node",
+    "tutorial"
+  ],
+  "author": "Lazy",
+  "license": "ISC"
+}
