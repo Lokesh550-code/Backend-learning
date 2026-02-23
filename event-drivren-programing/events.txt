@@ -1,0 +1,2 @@
+In event driven programing, the program runs when an event such as clicking of a button or hovering on a link take place.
+It is used rigourously in node js as well as V-8 based javascript.
