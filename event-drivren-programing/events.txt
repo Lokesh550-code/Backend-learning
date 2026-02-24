@@ -1,2 +1,8 @@
 In event driven programing, the program runs when an event such as clicking of a button or hovering on a link take place.
 It is used rigourously in node js as well as V-8 based javascript.
+
+
+events is an in-build module in node.js, the two main functions are on and emit
+
+on -> It is used for listening to an event
+emit -> It is used to emit the even
